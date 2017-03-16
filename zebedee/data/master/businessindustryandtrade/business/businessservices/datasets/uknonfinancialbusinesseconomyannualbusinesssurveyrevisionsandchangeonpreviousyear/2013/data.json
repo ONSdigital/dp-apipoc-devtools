@@ -1,0 +1,35 @@
+{
+  "downloads": [
+    {
+      "title": "2013",
+      "file": "absregionalrevisionschange_tcm77-412110.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/business/businessservices/datasets/uknonfinancialbusinesseconomyannualbusinesssurveyrevisionsandchangeonpreviousyear/2013",
+  "description": {
+    "title": "UK Non-Financial Business Economy (Annual Business Survey): Revisions and Change on Previous Year",
+    "summary": "Revisions and year on year changes to business turnover, aGVA and purchases, broken down to SIC 2007 broad industry group by region/country.",
+    "keywords": [
+      "agva",
+      "turnover",
+      "purchases",
+      "services",
+      "manufacturing"
+    ],
+    "metaDescription": "Revisions and year on year changes to business turnover, aGVA and purchases, broken down to SIC 2007 broad industry group by region/country.",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "abs@ons.gsi.gov.uk",
+      "name": "Jon Gough",
+      "telephone": "+44 (0)1633 456720"
+    },
+    "releaseDate": "2015-07-22T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "2013",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

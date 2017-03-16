@@ -1,0 +1,31 @@
+{
+  "downloads": [
+    {
+      "title": "Section B 2009 - 2010",
+      "file": "rftsectionb_tcm77-261580.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/internationaltrade/datasets/internationaltradeinservicesreferencetables/sectionb20092010",
+  "description": {
+    "title": "International Trade in Services",
+    "summary": "The tables show International Trade in Services through a variety of formats. Some tables compare figures over several years but the majority provide the most recent geographic information by industry or product. The tables provide information in as much detail as possible without disclosing the details of any individual companies.",
+    "keywords": [
+      "exports,imports,ITIS,geographical"
+    ],
+    "metaDescription": "The tables show International Trade in Services through a variety of formats. Some tables compare figures over several years but the majority provide the most recent geographic information by industry or product. The tables provide information in as much detail as possible without disclosing the details of any individual companies.",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "itis@ons.gsi.gov.uk",
+      "name": "Michael Hardie",
+      "telephone": "+44 (0)1633 455923"
+    },
+    "releaseDate": "2015-01-30T00:00:00.000Z",
+    "nextRelease": "29 January 2016",
+    "edition": "Section B 2009 - 2010",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

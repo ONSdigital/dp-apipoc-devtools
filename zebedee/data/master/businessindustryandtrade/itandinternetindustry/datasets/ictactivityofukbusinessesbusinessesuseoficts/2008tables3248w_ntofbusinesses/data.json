@@ -1,0 +1,31 @@
+{
+  "downloads": [
+    {
+      "title": "2008, Tables 32 - 48 (weighted by employment of businesses)",
+      "file": "finaltables_32-48_tcm77-71079.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/itandinternetindustry/datasets/ictactivityofukbusinessesbusinessesuseoficts/2008tables3248w_ntofbusinesses",
+  "description": {
+    "title": "Businesses\u0027 Use of ICTs",
+    "summary": "Businesses\u0027 use of ICTs.",
+    "keywords": [
+      "business,e-commerce,website,sales,EDI"
+    ],
+    "metaDescription": "Businesses\u0027 use of ICTs.",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "ecommerce@ons.gsi.gov.uk ",
+      "name": "Cecil Prescott",
+      "telephone": "+44 (0)1633 456767"
+    },
+    "releaseDate": "2014-11-28T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "2008, Tables 32 - 48 (weighted by employment of businesses)",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

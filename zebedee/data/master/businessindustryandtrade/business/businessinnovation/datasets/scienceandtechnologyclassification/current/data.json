@@ -1,0 +1,29 @@
+{
+  "downloads": [
+    {
+      "title": "Current",
+      "file": "scienceandtechnologyclassification_tcm77-395064.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/business/businessinnovation/datasets/scienceandtechnologyclassification/current",
+  "description": {
+    "title": "Science and Technology Classification",
+    "summary": "The full list of UK Standard Industrial Classification of Economic Activities 2007 (SIC07) codes and comparison between different classifications, with identifiers to categorise all 5-digit SIC07 codes according to the Science and Technology classification.",
+    "keywords": [],
+    "metaDescription": "The full list of UK Standard Industrial Classification of Economic Activities 2007 (SIC07) codes and comparison between different classifications, with identifiers to categorise all 5-digit SIC07 codes according to the Science and Technology classification.",
+    "nationalStatistic": false,
+    "contact": {
+      "email": "james.p.harris@ons.gsi.gov.uk",
+      "name": "James P Harris",
+      "telephone": "+44 (0) 1329 444 656"
+    },
+    "releaseDate": "2015-02-13T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "Current",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

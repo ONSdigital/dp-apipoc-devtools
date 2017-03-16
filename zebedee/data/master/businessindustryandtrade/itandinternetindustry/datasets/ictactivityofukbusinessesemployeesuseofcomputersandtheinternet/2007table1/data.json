@@ -1,0 +1,31 @@
+{
+  "downloads": [
+    {
+      "title": "2007 - Table 1",
+      "file": "table_1_tcm77-71069.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/itandinternetindustry/datasets/ictactivityofukbusinessesemployeesuseofcomputersandtheinternet/2007table1",
+  "description": {
+    "title": "Employees\u0027 Use of Computers and the Internet",
+    "summary": "Employees\u0027 Use of Computers and the Internet.",
+    "keywords": [
+      "business,e-commerce,website,sales,EDI"
+    ],
+    "metaDescription": "Employees\u0027 Use of Computers and the Internet.",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "ecommerce@ons.gsi.gov.uk",
+      "name": "Cecil Prescott",
+      "telephone": "+44 (0)1633 456767"
+    },
+    "releaseDate": "2014-11-28T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "2007 - Table 1",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

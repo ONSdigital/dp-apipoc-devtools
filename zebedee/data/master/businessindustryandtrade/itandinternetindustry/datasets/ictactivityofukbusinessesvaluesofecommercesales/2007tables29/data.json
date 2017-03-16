@@ -1,0 +1,31 @@
+{
+  "downloads": [
+    {
+      "title": "2007, Tables 2 - 9",
+      "file": "tables_2-9_tcm77-71099.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/itandinternetindustry/datasets/ictactivityofukbusinessesvaluesofecommercesales/2007tables29",
+  "description": {
+    "title": "Values of E-commerce Sales",
+    "summary": "Values of sales and purchases over ICTs.",
+    "keywords": [
+      "business,e-commerce,website,sales,EDI"
+    ],
+    "metaDescription": "Values of sales and purchases over ICTs.",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "ecommerce@ons.gsi.gov.uk",
+      "name": "Cecil Prescott",
+      "telephone": "+44 (0)1633 456767"
+    },
+    "releaseDate": "2014-11-28T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "2007, Tables 2 - 9",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

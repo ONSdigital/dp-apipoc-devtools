@@ -1,0 +1,29 @@
+{
+  "downloads": [
+    {
+      "title": "No. 13: 2012",
+      "file": "2012editiontablev2_tcm77-276461.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/constructionindustry/datasets/constructionstatisticsannualtables/no.132012",
+  "description": {
+    "title": "Construction Statistics Annual Tables",
+    "summary": "These tables cover a wide range of statistics that are currently available on the construction industry.",
+    "keywords": [],
+    "metaDescription": "These tables cover a wide range of statistics that are currently available on the construction industry.",
+    "nationalStatistic": false,
+    "contact": {
+      "email": "construction.statistics@ons.gsi.gov.uk",
+      "name": "Kate Davies",
+      "telephone": ""
+    },
+    "releaseDate": "2015-08-25T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "No. 13: 2012",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}

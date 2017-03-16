@@ -1,0 +1,31 @@
+{
+  "downloads": [
+    {
+      "title": "2010, Tables 7 - 16",
+      "file": "tables716businessesuseoficts_tcm77-245928.xls"
+    }
+  ],
+  "type": "dataset",
+  "uri": "/businessindustryandtrade/itandinternetindustry/datasets/ictactivityofukbusinessesbusinessesuseoficts/2010tables716",
+  "description": {
+    "title": "Businesses\u0027 Use of ICTs",
+    "summary": "Businesses\u0027 use of ICTs.",
+    "keywords": [
+      "business,e-commerce,website,sales,EDI"
+    ],
+    "metaDescription": "Businesses\u0027 use of ICTs.",
+    "nationalStatistic": true,
+    "contact": {
+      "email": "ecommerce@ons.gsi.gov.uk ",
+      "name": "Cecil Prescott",
+      "telephone": "+44 (0)1633 456767"
+    },
+    "releaseDate": "2014-11-28T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "2010, Tables 7 - 16",
+    "datasetId": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  }
+}
