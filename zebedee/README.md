@@ -1,12 +1,7 @@
-dp-apipoc-devtools
-==================
+dp-apipoc-devtools #zebedee
+===========================
 
-Builds a docker image containing Golang 1.8, OpenJDK 1.8, Gradle 3.3 and lsof
-
-
-Please see the below subdirectories for the other required docker images:
-- elastic
-- zebedee
+Builds a docker image containing Zebedee Reader and some test data baked-in.
 
 The resulting docker image is used for the [API POC Server](https://github.com/ONSdigital/dp-apipoc-server)'s [build pipeline](https://concourse.onsdigital.co.uk/teams/main/pipelines/dp-api-poc).
 
